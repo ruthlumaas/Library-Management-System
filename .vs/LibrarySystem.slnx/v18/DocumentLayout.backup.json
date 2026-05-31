@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucreturnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucreturnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\admi\\documents\\2nd semester_2nd year (s.y. 2025-2026)\\information management 1\\librarysystem\\librarysystem\\ucreturnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucreturnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucoverdue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucoverdue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\uctransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\uctransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\uccategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\uccategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucaddstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucaddstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\studentcellrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\studentcellrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucborrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucborrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\admi\\documents\\2nd semester_2nd year (s.y. 2025-2026)\\information management 1\\librarysystem\\librarysystem\\ucborrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucborrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\admi\\documents\\2nd semester_2nd year (s.y. 2025-2026)\\information management 1\\librarysystem\\librarysystem\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\admi\\documents\\2nd semester_2nd year (s.y. 2025-2026)\\information management 1\\librarysystem\\librarysystem\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\uccategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\uccategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\ucbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "RelativeToolTip": "LibrarySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T15:22:17.259Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConnectDB.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ConnectDB.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ConnectDB.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ConnectDB.cs",
+              "RelativeToolTip": "LibrarySystem\\ConnectDB.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:54:51.45Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentCellRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\StudentCellRenderer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\StudentCellRenderer.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\StudentCellRenderer.cs",
+              "RelativeToolTip": "LibrarySystem\\StudentCellRenderer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:13:29.927Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmScanQR.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\frmScanQR.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\frmScanQR.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\frmScanQR.cs",
+              "RelativeToolTip": "LibrarySystem\\frmScanQR.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:57:34.191Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\Form1.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\Form1.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T07:15:25.247Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T04:52:31.425Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ucDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucDashboard.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucDashboard.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucDashboard.cs [Design]*",
+              "RelativeToolTip": "LibrarySystem\\ucDashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T04:53:00.302Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ucBorrowBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucBorrowBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucBorrowBooks.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucBorrowBooks.cs [Design]*",
+              "RelativeToolTip": "LibrarySystem\\ucBorrowBooks.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:45:03.698Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ucReturnBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucReturnBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucReturnBooks.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucReturnBooks.cs [Design]*",
+              "RelativeToolTip": "LibrarySystem\\ucReturnBooks.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T13:39:08.94Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ucBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucBooks.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucBooks.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T15:50:12.635Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ucAddBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucAddBook.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucAddBook.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucAddBook.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucAddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:58:51.712Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ucStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucStudents.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucStudents.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucStudents.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T06:24:50.655Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucAddStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucAddStudents.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucAddStudents.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucAddStudents.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucAddStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T08:52:21.258Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ucCategories.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucCategories.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucCategories.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucCategories.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucCategories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:10:56.863Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucAddCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucAddCategory.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucAddCategory.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucAddCategory.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucAddCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:05:36.468Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucTransactions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucTransactions.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucTransactions.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucTransactions.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:48:24.934Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucOverdue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucOverdue.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucOverdue.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucOverdue.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucOverdue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:10:21.623Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucReports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucReports.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucReports.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucReports.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:39:34.058Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmScanQR.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\frmScanQR.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\frmScanQR.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\frmScanQR.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\frmScanQR.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:55:40.919Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucReturnBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucReturnBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucReturnBooks.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucReturnBooks.cs*",
+              "RelativeToolTip": "LibrarySystem\\ucReturnBooks.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:55:27.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ucBorrowBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucBorrowBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucBorrowBooks.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucBorrowBooks.cs*",
+              "RelativeToolTip": "LibrarySystem\\ucBorrowBooks.cs*",
+              "ViewState": "AgIAACgBAAAAAAAAAAAqwDsBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:37:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ucDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucDashboard.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucDashboard.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucDashboard.cs*",
+              "RelativeToolTip": "LibrarySystem\\ucDashboard.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwD4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:36:34.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\Dashboard.cs",
+              "RelativeToolTip": "LibrarySystem\\Dashboard.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:11:08.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ucStudents.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucStudents.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucStudents.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucStudents.cs",
+              "RelativeToolTip": "LibrarySystem\\ucStudents.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T03:52:51.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ucBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucBooks.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucBooks.cs",
+              "RelativeToolTip": "LibrarySystem\\ucBooks.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T03:44:11.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ucCategories.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucCategories.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucCategories.cs",
+              "ToolTip": "C:\\Users\\Admi\\Documents\\2nd semester_2nd year (s.y. 2025-2026)\\Information Management 1\\LibrarySystem\\LibrarySystem\\ucCategories.cs",
+              "RelativeToolTip": "LibrarySystem\\ucCategories.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T02:50:07.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

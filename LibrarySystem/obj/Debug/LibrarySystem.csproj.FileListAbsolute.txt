@@ -1,0 +1,169 @@
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LoginForm.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\Guna.UI2.dll
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibraryS.702885DD.Up2Date
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.MainDashboardForm.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucBorrowBooks.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucDashboard.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucReturnBooks.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucBooks.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddBook.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucStudents.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddStudents.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucCategories.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddCategory.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucOverdue.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucReports.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucTransactions.resources
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\MySql.Data.dll
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.dll
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.dll
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.dll
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.presentation.dll
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.xml
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.xml
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.xml
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.presentation.xml
+C:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmScanQR.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe.config
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LoginForm.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmScanQR.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddBook.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddCategory.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddStudents.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucBooks.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucBorrowBooks.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucCategories.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucDashboard.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucOverdue.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucReports.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucReturnBooks.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucStudents.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucTransactions.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.dll
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.DirectShow.dll
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.dll
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\Guna.UI2.dll
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\MySql.Data.dll
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.dll
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.presentation.dll
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.xml
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.xml
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.DirectShow.xml
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.xml
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.presentation.xml
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibraryS.702885DD.Up2Date
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmMainDashboardForm.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmSignin.resources
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\System.Drawing.Common.dll
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\ZXing.Windows.Compatibility.dll
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\System.Drawing.Common.pdb
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\System.Drawing.Common.xml
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\ZXing.Windows.Compatibility.pdb
+D:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\ZXing.Windows.Compatibility.xml
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.dll
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.DirectShow.dll
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.dll
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\Guna.UI2.dll
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\MySql.Data.dll
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\System.Drawing.Common.dll
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.dll
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.presentation.dll
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\ZXing.Windows.Compatibility.dll
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.xml
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.xml
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.DirectShow.xml
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\System.Drawing.Common.pdb
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\System.Drawing.Common.xml
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.xml
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\zxing.presentation.xml
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\ZXing.Windows.Compatibility.pdb
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\bin\Debug\ZXing.Windows.Compatibility.xml
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe.config
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmMainDashboardForm.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LoginForm.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmScanQR.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmSignin.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddBook.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddCategory.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddStudents.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucBooks.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucBorrowBooks.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucCategories.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucDashboard.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucOverdue.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucReports.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucReturnBooks.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucStudents.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucTransactions.resources
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibraryS.702885DD.Up2Date
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+E:\Users\Admi\Documents\2nd semester_2nd year (s.y. 2025-2026)\Information Management 1\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\AForge.dll
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\zxing.dll
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\zxing.presentation.dll
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\ZXing.Windows.Compatibility.dll
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\AForge.xml
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\System.Drawing.Common.xml
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\zxing.xml
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\zxing.presentation.xml
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\ZXing.Windows.Compatibility.pdb
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\bin\Debug\ZXing.Windows.Compatibility.xml
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe.config
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmMainDashboardForm.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LoginForm.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmScanQR.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddBook.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddCategory.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucAddStudents.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucBooks.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucBorrowBooks.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucCategories.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucDashboard.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucReports.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucReturnBooks.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucStudents.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ucTransactions.resources
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibraryS.702885DD.Up2Date
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Administrator\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb

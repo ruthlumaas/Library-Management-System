@@ -1,0 +1,583 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\administrator\\desktop\\librarysystem\\librarysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\uctransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\uctransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucreturnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucreturnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucreturnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucreturnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\studentcellrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\studentcellrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucborrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucborrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\frmscanqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\uccategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\uccategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucborrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucborrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\qrcodehelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\qrcodehelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucaddstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucaddstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucaddstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucaddstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\uccategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\uccategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\uctransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\uctransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\ucreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\ucreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\frmscanqr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\frmscanqr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|C:\\Users\\Administrator\\Desktop\\LibrarySystem\\librarysystem\\borrowhelperfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3B347E-4903-44DD-AC57-B5A33E0B49F7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\borrowhelperfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "RelativeToolTip": "LibrarySystem\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvw0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T00:08:16.553Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Form1.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Form1.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:57:42.756Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:58:04.256Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucDashboard.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucDashboard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucDashboard.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:03:08.388Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucReturnBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucReturnBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucReturnBooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucReturnBooks.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucReturnBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:59:18.708Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ucBorrowBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucBorrowBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucBorrowBooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucBorrowBooks.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucBorrowBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:58:41.687Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ucBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucBooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucBooks.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:59:36.458Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ucAddBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddBook.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucAddBook.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddBook.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucAddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:59:47.429Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ucStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucStudents.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucStudents.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucStudents.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:00:18.549Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ucAddStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddStudents.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucAddStudents.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddStudents.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucAddStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:00:30.059Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ucCategories.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucCategories.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucCategories.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucCategories.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucCategories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:01:06.355Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ucAddCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddCategory.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucAddCategory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddCategory.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucAddCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:01:11.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucTransactions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucTransactions.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucTransactions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucTransactions.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:02:07.624Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmScanQR.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\frmScanQR.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\frmScanQR.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\frmScanQR.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\frmScanQR.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:11:07.629Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectDB.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ConnectDB.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ConnectDB.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ConnectDB.cs",
+              "RelativeToolTip": "LibrarySystem\\ConnectDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:49:17.206Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QRCodeHelp.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\QRCodeHelp.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\QRCodeHelp.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\QRCodeHelp.cs",
+              "RelativeToolTip": "LibrarySystem\\QRCodeHelp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:58:58.866Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentCellRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\StudentCellRenderer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\StudentCellRenderer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\StudentCellRenderer.cs",
+              "RelativeToolTip": "LibrarySystem\\StudentCellRenderer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:56:32.787Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmScanQR.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\frmScanQR.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\frmScanQR.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\frmScanQR.cs",
+              "RelativeToolTip": "LibrarySystem\\frmScanQR.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA4wKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T20:18:58.926Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BorrowHelperFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\BorrowHelperFunctions.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\BorrowHelperFunctions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\BorrowHelperFunctions.cs",
+              "RelativeToolTip": "LibrarySystem\\BorrowHelperFunctions.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:56:20.852Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ucAddBook.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddBook.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucAddBook.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddBook.cs",
+              "RelativeToolTip": "LibrarySystem\\ucAddBook.cs",
+              "ViewState": "AgIAANABAAAAAAAAAAAWwOIBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:30:30.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ucBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucBooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucBooks.cs",
+              "RelativeToolTip": "LibrarySystem\\ucBooks.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAuwBMBAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T20:50:49.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ucReturnBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucReturnBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucReturnBooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucReturnBooks.cs",
+              "RelativeToolTip": "LibrarySystem\\ucReturnBooks.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAjwI4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:17:36.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ucBorrowBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucBorrowBooks.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucBorrowBooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucBorrowBooks.cs",
+              "RelativeToolTip": "LibrarySystem\\ucBorrowBooks.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAtwNMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:55:29.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ucAddCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddCategory.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucAddCategory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddCategory.cs",
+              "RelativeToolTip": "LibrarySystem\\ucAddCategory.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAwwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T11:18:36.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ucStudents.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucStudents.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucStudents.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucStudents.cs",
+              "RelativeToolTip": "LibrarySystem\\ucStudents.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAAAEgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:13:34.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ucAddStudents.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddStudents.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucAddStudents.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucAddStudents.cs",
+              "RelativeToolTip": "LibrarySystem\\ucAddStudents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T22:09:38.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ucCategories.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucCategories.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucCategories.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucCategories.cs",
+              "RelativeToolTip": "LibrarySystem\\ucCategories.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:20:19.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Dashboard.cs",
+              "RelativeToolTip": "LibrarySystem\\Dashboard.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:59:57.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Form1.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Form1.cs",
+              "RelativeToolTip": "LibrarySystem\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T22:56:45.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ucTransactions.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucTransactions.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucTransactions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucTransactions.cs",
+              "RelativeToolTip": "LibrarySystem\\ucTransactions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwFAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:42:06.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ucDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucDashboard.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucDashboard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucDashboard.cs",
+              "RelativeToolTip": "LibrarySystem\\ucDashboard.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:48:12.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ucReports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucReports.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\ucReports.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\ucReports.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\ucReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:24:42.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmScanQR.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\frmScanQR.Designer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\frmScanQR.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\frmScanQR.Designer.cs",
+              "RelativeToolTip": "LibrarySystem\\frmScanQR.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:17:35.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibrarySystem\\LibrarySystem\\Form1.Designer.cs",
+              "RelativeToolTip": "LibrarySystem\\Form1.Designer.cs",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAewHwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:21:53.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
